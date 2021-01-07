@@ -1,0 +1,21 @@
+body{
+  background-color: #e6f2ff;
+}
+h1{
+  font-size: 16pt;
+  font-family: garamond;
+}
+
+p{
+  font-size: 12pt;
+  font-family: garamond;
+}
+
+canvas{
+  height: 200px;
+  border: 1px solid lightgrey;
+}
+
+input{
+  font-size: 10pt;
+}
